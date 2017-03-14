@@ -47,11 +47,12 @@ init(opt);
 ```
 
 ##dev
->git clone https://github.com/jayZOU/pull-down-refresh.git
+>git clone https://github.com/jayZOU/pull-down-refresh.git    
 
->npm install
+>npm install     
 
->npm run dev ( or build)
+>npm run dev ( or build)    
+
 ##API
 ###init(object)
 *Function*
